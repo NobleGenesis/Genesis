@@ -1,4 +1,4 @@
 # Genesis
 This is my first repository.
-i am genny
+this is my first commit
 
